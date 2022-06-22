@@ -2,7 +2,7 @@
 - 👀 I’m interested in phyton and javascript
 - 🌱 I’m currently learning ohyton and javascript
 - 💞️ I’m looking to collaborate on Web Development and App Developer
-- 📫 How to reach me ...
+- 📫 How to reach me @thekhidi28
 
 <!---
 khidi28/khidi28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
