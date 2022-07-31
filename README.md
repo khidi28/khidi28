@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khidi28
-- 👀 I’m interested in phyton and javascript
-- 🌱 I’m currently learning ohyton and javascript
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning html, css and javascript
 - 💞️ I’m looking to collaborate on Web Development and App Developer
 - 📫 How to reach me @khidi28
 
